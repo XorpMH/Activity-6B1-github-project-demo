@@ -4,3 +4,4 @@ This activity contains a project with the following requirements
 - Issues with Tasks
 - A Repo with Code
 - Commits, Pushes, and Merges
+- Updates to the Board
